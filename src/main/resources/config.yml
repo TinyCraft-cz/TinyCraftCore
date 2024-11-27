@@ -1,0 +1,3 @@
+Messages:
+  JoinMsg: "<gradient:#00bbff:#00F5FF>sʏsᴛᴇᴍ</gradient> <gray>▶</gray> <white>Hráč <#00bbff>{playerName}</#00bbff> se připojil na server!</white> <#C5FDAD>✔</#C5FDAD>"
+  LeaveMsg: "<gradient:#00bbff:#00F5FF>sʏsᴛᴇᴍ</gradient> <gray>▶</gray> <white>Hráč <#00bbff>{playerName}</#00bbff> se odpojil ze serveru!</white> <#FDADAD>❌</#FDADAD>"

@@ -1,0 +1,5 @@
+name: TinyCraftCore
+version: '${project.version}'
+main: space.maaviix.tinycraftcore.TinyCraftCore
+api-version: '1.21'
+author: MaaviiX
